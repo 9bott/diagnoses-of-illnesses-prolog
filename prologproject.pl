@@ -1,4 +1,4 @@
-
+% Code-for-diagnosing diseases (I hope I don’t forget it)
 
 % Define diseases and their associated symptoms
 disease(cold, [runny_nose, sneezing, sore_throat]).
